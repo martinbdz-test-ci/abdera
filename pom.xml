@@ -482,7 +482,6 @@
   <modules>
     <module>bundle</module>
     <module>core</module>
-    <module>dependencies/i18n</module>
     <module>parser</module>
     <module>security</module>
     <module>server</module>
